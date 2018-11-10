@@ -1,0 +1,31 @@
+#wrapper {
+    background-color: sandybrown;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.displayInLine {
+    display: inline;
+}
+
+.overFlow {
+    overflow: hidden;
+}
+
+div {
+    display: block;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.clearFix {
+    clear: both;
+}
+
+#content {
+    width: 576px;
+    padding: 10px;
+}
