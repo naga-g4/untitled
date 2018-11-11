@@ -33,6 +33,9 @@ div {
 .pic {
     padding: 5px;
     width: 329px;
+    position: relative;
+    text-align: center;
+    color: black;
 }
 
 #top {
