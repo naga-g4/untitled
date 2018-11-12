@@ -46,7 +46,7 @@ div {
 .list {
     width: 576px;
     text-align: right;
-    left: 30px;
+    padding-left: 30px;
 }
 
 .top-right {
